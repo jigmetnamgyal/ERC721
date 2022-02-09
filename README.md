@@ -13,3 +13,7 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+
+# Whitelist NFT contract: 
+0xED5c5b406FDf19F72630FCBC071e1978EbCD8faF
+
