@@ -17,3 +17,7 @@ npx hardhat help
 # Whitelist NFT contract: 
 0xED5c5b406FDf19F72630FCBC071e1978EbCD8faF
 
+# rinkeby etherscan link: 
+https://rinkeby.etherscan.io/address/0xED5c5b406FDf19F72630FCBC071e1978EbCD8faF
+
+
